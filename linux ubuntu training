@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-02T11:45:51.410Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Y3aZeZ2NZDKn7R0xyRaY" version="14.1.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-02T11:48:30.858Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="hx9nmyk28LyYQ4ionQCY" version="14.1.7" type="github" pages="2">
   <diagram id="dr4s42-rZu0jtZeIszH_" name="terminal -shell -interaction">
     <mxGraphModel dx="868" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,11 +33,26 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="qSLB0KO-bVZuivOPRVpT" name="Page-2">
+  <diagram id="qSLB0KO-bVZuivOPRVpT" name="update upgrade comand">
     <mxGraphModel dx="868" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="gO4OHPjNulr5aYGI9akA-0" />
         <mxCell id="gO4OHPjNulr5aYGI9akA-1" parent="gO4OHPjNulr5aYGI9akA-0" />
+        <mxCell id="gO4OHPjNulr5aYGI9akA-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gO4OHPjNulr5aYGI9akA-1" source="gO4OHPjNulr5aYGI9akA-2" target="gO4OHPjNulr5aYGI9akA-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gO4OHPjNulr5aYGI9akA-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gO4OHPjNulr5aYGI9akA-1">
+          <mxGeometry x="100" y="290" width="550" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gO4OHPjNulr5aYGI9akA-3" value="&lt;font style=&quot;font-size: 42px&quot;&gt;sudo apt-get update&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gO4OHPjNulr5aYGI9akA-1">
+          <mxGeometry x="120" y="310" width="520" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gO4OHPjNulr5aYGI9akA-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gO4OHPjNulr5aYGI9akA-1">
+          <mxGeometry x="100" y="530" width="550" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gO4OHPjNulr5aYGI9akA-6" value="&lt;font style=&quot;font-size: 42px&quot;&gt;sudo apt-get full-upgrade&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gO4OHPjNulr5aYGI9akA-1">
+          <mxGeometry x="100" y="550" width="520" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
